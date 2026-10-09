@@ -1,0 +1,12 @@
+{
+  "pet": "RGBee",
+  "kind": "pet-app",
+  "owner": "Astra",
+  "sprite": "sprite-20261009.json",
+  "job": "Plans and previews lighting scenes for every RGB light in the room: room lights, mouse pad, mouse, PC and keyboard. Sending scenes to the real lights is planned.",
+  "runs_on": "A modern browser for the web app (preview only). Light control is planned for Windows.",
+  "entry": "rgbee-20261009.html",
+  "status": "hatching",
+  "cage": { "topic": "pet-app", "home": "README.md" },
+  "built_with": "Claude Opus 5.5 (claude-opus-5-5), 2026-10-09"
+}

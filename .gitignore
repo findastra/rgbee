@@ -1,0 +1,11 @@
+# Keys, local settings and backups stay on the PC.
+.env
+.env.*
+!.env.example
+*.local.json
+rgbee-backup-*.json
+logs/
+node_modules/
+Thumbs.db
+desktop.ini
+.DS_Store
