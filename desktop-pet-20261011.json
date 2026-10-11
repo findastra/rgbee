@@ -4,19 +4,20 @@
   "assistant": "OpenAI Codex (GPT-6)",
   "date": "2026-10-11",
   "status": "draft",
-  "desktop_scale": 1,
+  "desktop_scale": 0.7,
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
   "art_files": [
-    "desktop-art/rgbee/idle-20261011.png",
+    "desktop-art/rgbee/alarmed-20261011.png",
     "desktop-art/rgbee/blink-20261011.png",
-    "desktop-art/rgbee/happy-20261011.png",
     "desktop-art/rgbee/curious-20261011.png",
-    "desktop-art/rgbee/worried-20261011.png",
+    "desktop-art/rgbee/happy-20261011.png",
+    "desktop-art/rgbee/idle-20261011.png",
     "desktop-art/rgbee/sad-20261011.png",
     "desktop-art/rgbee/sick-20261011.png",
-    "desktop-art/rgbee/alarmed-20261011.png",
-    "desktop-art/rgbee/sleep-20261011.png"
+    "desktop-art/rgbee/sleep-20261011.png",
+    "desktop-art/rgbee/worried-20261011.png"
   ],
-  "notes": "Bold abdomen rainbow bands cycle smoothly; pale blue-white wings stay fixed and translucent."
+  "notes": "Smaller bee; no antenna balls; six-second RGB abdomen cycle; pale translucent wings retain their color.",
+  "source_sheet": "desktop-art/rgbee/sheet-20261011.png"
 }
