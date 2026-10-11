@@ -23,7 +23,7 @@ Open [rgbee-20261009.html](rgbee-20261009.html) in a modern browser. No install,
 What is not done, plainly:
 
 - **RGBee does not control any real light yet.** Scenes play on the preview desk only. How it will reach each kind of light is in [docs/plan-20261009.md](docs/plan-20261009.md); the build is handoff card [001](handoffs/001-any-light-control.md), and it needs the brand of each light first.
-- **No art yet.** RGBee's pet well shows a placeholder. Its mood sheet is one paid image, so the Cage generates it only after Astra's OK.
+- **Draft artwork is ready for review:** [sprite sheet](draft-art/rgbee/sheet-20261011.png), [app icon](draft-art/rgbee/idle-20261011.png), and [nine-mood manifest](draft-art/rgbee/manifest-20261011.json). Created with the built-in image tool and OpenAI Codex (GPT-6), 2026-10-11. The app still shows its placeholder; the draft is not activated or registered in the Cage.
 - No desktop pet and no quick chat yet. Both are planned.
 - Lights and scenes are saved in this browser only. Clearing site data removes them, so export a backup.
 - Effects are kept slow (never more than three flashes a second) and stop when your system asks for reduced motion.

@@ -6,6 +6,8 @@ information (including any employer's name) out of this repo.
 Hatched with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-09. Record your model name and
 version here when you change something substantial.
 
+Draft sprite sheet and nine transparent mood frames added with OpenAI Codex (GPT-6), 2026-10-11. Assets remain separate in `draft-art/rgbee/` pending Astra's review; runtime is unchanged.
+
 ## What this is
 A pet app for RGB lighting: room lights, mouse pad, mouse, PC and keyboard. v0 is a one-file
 web app (`rgbee-20261009.html`) that lists lights, mixes scenes and previews them. It controls
