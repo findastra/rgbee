@@ -12,11 +12,11 @@ Draft sprite sheet and nine transparent mood frames added with OpenAI Codex (GPT
 A pet app for RGB lighting: room lights, mouse pad, mouse, PC and keyboard. v0 is a one-file
 web app (`rgbee-20261009.html`) that lists lights, mixes scenes and previews them. It controls
 no real light yet; [docs/plan-20261009.md](docs/plan-20261009.md) says how it will. Its host is
-the Friendly Farmer in `findastra/astras-pet-apps`; the pet's registry entry and art live there.
+the Friendly Farmer in `findastra/astras-pet-os`; the pet's registry entry and art live there.
 
 ## Rules
-- Follow the Cage's [PET-FILES.md](https://github.com/findastra/astras-pet-apps/blob/main/PET-FILES.md)
-  and use its [PET-WORDS.md](https://github.com/findastra/astras-pet-apps/blob/main/PET-WORDS.md):
+- Follow the Cage's [PET-FILES.md](https://github.com/findastra/astras-pet-os/blob/main/PET-FILES.md)
+  and use its [PET-WORDS.md](https://github.com/findastra/astras-pet-os/blob/main/PET-WORDS.md):
   pet, app, desktop pet, bubble, quick chat, app icon, pet well.
 - **Never commit** API keys, bridge usernames, `.env` files, backups or device serial numbers.
   They stay on the PC.
@@ -29,7 +29,7 @@ the Friendly Farmer in `findastra/astras-pet-apps`; the pet's registry entry and
 
 ## Handoffs
 When Astra's request is unclear or sounds like an assignment, check `handoffs/` here and in
-`findastra/astras-pet-apps` first. Leave a card when work remains. Format: the Cage's
-[skills/handoff/SKILL.md](https://github.com/findastra/astras-pet-apps/blob/main/skills/handoff/SKILL.md).
+`findastra/astras-pet-os` first. Leave a card when work remains. Format: the Cage's
+[skills/handoff/SKILL.md](https://github.com/findastra/astras-pet-os/blob/main/skills/handoff/SKILL.md).
 
-Desktop appearance revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json; runtime behavior is in astras-pet-apps.
+Desktop appearance revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json; runtime behavior is in astras-pet-os.

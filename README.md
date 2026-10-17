@@ -4,7 +4,7 @@
 
 RGBee is a bee whose stripes are red, green and blue. It looks after every RGB light in the room: the room lights, the mouse pad, the mouse, the PC and the keyboard. You list your lights, mix a scene (one colour and effect for everything, with any light set apart), and RGBee shows it on a preview desk. Sending scenes to the real lights is the next step.
 
-It lives in the Cage: [astras-pet-apps](https://github.com/findastra/astras-pet-apps).
+It lives in the Cage: [astras-pet-os](https://github.com/findastra/astras-pet-os).
 
 ## Pictures
 
@@ -38,7 +38,7 @@ What is not done, plainly:
 
 ## Words
 
-Each part of a pet app has one name: the **pet** (RGBee), its **app** (this page), a **desktop pet**, **bubbles**, **quick chat**, the **app icon** and the **pet well**. The full list is the Cage's [PET-WORDS.md](https://github.com/findastra/astras-pet-apps/blob/main/PET-WORDS.md).
+Each part of a pet app has one name: the **pet** (RGBee), its **app** (this page), a **desktop pet**, **bubbles**, **quick chat**, the **app icon** and the **pet well**. The full list is the Cage's [PET-WORDS.md](https://github.com/findastra/astras-pet-os/blob/main/PET-WORDS.md).
 
 ## Credits
 
