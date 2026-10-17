@@ -6,6 +6,14 @@ RGBee is a bee whose stripes are red, green and blue. It looks after every RGB l
 
 It lives in the Cage: [astras-pet-apps](https://github.com/findastra/astras-pet-apps).
 
+## Pictures
+
+![RGBee's Lighting Desk: the preview desk showing the Astra purple scene on the room lights, PC, keyboard, mouse pad and mouse](docs/images/rgbee-program-page-20261017.png)
+
+RGBee's program page (`rgbee-20261009.html`) on `main`. It previews scenes only; no real light is connected yet.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## How to run it
 
 Open [rgbee-20261009.html](rgbee-20261009.html) in a modern browser. No install, account or network connection is needed. It also works when you double-click the file.
